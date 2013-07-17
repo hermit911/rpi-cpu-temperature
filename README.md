@@ -17,7 +17,12 @@ Then clone this repository and prepare it for use with:
     $ cd rpi-cpu-temperature
     $ npm install
 
-## Usage
+
+##Coffee Script is required, so we install it too:
+
+  sudo npm install -g coffee-script
+  
+## Usage  
   
 Start server:
 
